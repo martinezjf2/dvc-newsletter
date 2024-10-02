@@ -17,7 +17,7 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/titles/1.png" alt="main header image" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/1.png" alt="main header image" />
         </mj-column>
       </mj-section>
 
@@ -32,13 +32,13 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/image-1.jpg" alt="first image" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/image-1.jpg" alt="first image" />
         </mj-column>
       </mj-section>
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/titles/2.png" alt="mickey ears" width="280px" align="center" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/2.png" alt="mickey ears" width="280px" align="center" />
         </mj-column>
       </mj-section>
 
@@ -53,10 +53,10 @@
           <mj-text padding-top="4px" line-height="1.3" font-size="14px">
             From 7/22 – 8/24 celebrate Welcome Home Weeks, exclusive Member experiences and events at select Parks, Resorts, and even at home.
           </mj-text>
-          <mj-image src="/assets/button-1.png" alt="learn more button" width="180px" padding-top="0px" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/button-1.png" alt="learn more button" width="180px" padding-top="0px" />
         </mj-column>
         <mj-column width="330px">
-          <mj-image src="/assets/image-2.jpg" alt="goofy image" align="center" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/image-2.jpg" alt="goofy image" align="center" />
         </mj-column>
       </mj-section>
 
@@ -67,7 +67,7 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/image-3.jpg" alt="cast member image" align="center" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/image-3.jpg" alt="cast member image" align="center" />
         </mj-column>
         <mj-column>
           <mj-text text-transform="uppercase" font-weight="600" font-size="22px" padding-bottom="2px">
@@ -76,13 +76,13 @@
           <mj-text padding-top="4px" line-height="1.3" font-size="14px">
             For a limited time, eligible Members can save 20% on a Disney Private VIP Tour during select dates from July through September 2024. Requires eligibility.
           </mj-text>
-          <mj-image src="/assets/button-2.png" alt="check it out button" width="180px" padding-top="0px" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/button-2.png" alt="check it out button" width="180px" padding-top="0px" />
         </mj-column>
       </mj-section>
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/titles/3.png" alt="magical tours" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/3.png" alt="magical tours" />
         </mj-column>
       </mj-section>
 
@@ -96,19 +96,19 @@
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-image src="/assets/image-4.jpg" alt="dvc members in pool" align="center" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/image-4.jpg" alt="dvc members in pool" align="center" />
         </mj-column>
       </mj-section>
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/titles/4.png" alt="vacay your way" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/4.png" alt="vacay your way" />
         </mj-column>
       </mj-section>
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/image-5.jpg" alt="chip and dale picture" align="center" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/image-5.jpg" alt="chip and dale picture" align="center" />
         </mj-column>
         <mj-column>
           <mj-text text-transform="uppercase" font-weight="600" font-size="22px" padding-bottom="2px">
@@ -130,20 +130,20 @@
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-image src="/assets/image-6.jpg" alt="selfie picture" align="center" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/image-6.jpg" alt="selfie picture" align="center" />
         </mj-column>
       </mj-section>
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/titles/5.png" alt="insider scoop" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/5.png" alt="insider scoop" />
         </mj-column>
       </mj-section>
 
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/image-7.jpg" alt="chip and dale picture" align="center" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/image-7.jpg" alt="chip and dale picture" align="center" />
         </mj-column>
         <mj-column>
           <mj-text text-transform="uppercase" font-weight="600" font-size="22px" padding-bottom="2px">
@@ -158,7 +158,7 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/titles/6.png" alt="featured offer" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/6.png" alt="featured offer" />
         </mj-column>
       </mj-section>
 
@@ -173,7 +173,7 @@
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-image src="/assets/image-8.jpg" alt="selfie picture" padding-left="0" align="center" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/image-8.jpg" alt="selfie picture" padding-left="0" align="center" />
         </mj-column>
       </mj-section>
 
@@ -181,7 +181,7 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/titles/7.png" alt="magical feeling" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/7.png" alt="magical feeling" />
         </mj-column>
       </mj-section>
 
@@ -193,7 +193,7 @@
 
       <mj-section padding="0" full-width="full-width">
         <mj-column>
-          <mj-image src="/assets/image-9.jpg" alt="two kids sitting on stone" align="center" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/image-9.jpg" alt="two kids sitting on stone" align="center" />
         </mj-column>
         <mj-column vertical-align="middle">
           <mj-text text-transform="uppercase" font-weight="600" font-size="22px" padding="30px 10px 10px 10px">
@@ -211,7 +211,7 @@
           <mj-text font-size="20px" font-weight="600" align="center" padding="20px 5px 0 5px" text-transform="uppercase">
             Share your member moments with us!
           </mj-text>
-          <mj-image src="/assets/titles/8.jpg" alt="puerto rico trip" align="center" width="220px" padding="5px 0 20px" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/8.jpg" alt="puerto rico trip" align="center" width="220px" padding="5px 0 20px" />
         </mj-column>
       </mj-section>
 
@@ -219,10 +219,10 @@
       <mj-section padding="0">
         <mj-group>
           <mj-column>
-            <mj-image src="/assets/insta-icon.png" alt="instagram logo link" width="30px" align="right" padding="0 7px 0 10px" href="https://instagram.com" />
+            <mj-image src="https://dvc-newletter.s3.amazonaws.com/insta-icon.png" alt="instagram logo link" width="30px" align="right" padding="0 7px 0 10px" href="https://instagram.com" />
           </mj-column>
           <mj-column>
-            <mj-image src="/assets/face-icon.png" alt="facebook logo link" width="30px" align="left" padding="0 10px 0 7px" href="https://facebook.com" />
+            <mj-image src="https://dvc-newletter.s3.amazonaws.com/face-icon.png" alt="facebook logo link" width="30px" align="left" padding="0 10px 0 7px" href="https://facebook.com" />
           </mj-column>
         </mj-group>
       </mj-section>
@@ -230,7 +230,7 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/titles/9.png" alt="dvc ending logo" padding="20px 0" width="230px" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/9.png" alt="dvc ending logo" padding="20px 0" width="230px" />
         </mj-column>
       </mj-section>
 
@@ -269,48 +269,3 @@
     </mj-section>
   </mj-body>
 </mjml>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- dont have to write the < symbol, it will autocomplete the tags just writing it like this: mjcolumn 
-
-By default emails should be 600px for Desktop size
-
-
--->
