@@ -15,6 +15,144 @@
   <mj-body background-color="#f2f2f2">
     <mj-wrapper background-color="white">
 
+      <mj-section>
+        <mj-column>
+          <mj-image src="/assets/titles/1.png" alt="main header image" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            Celebrate the first-ever welcome home weeks, <br>Coming this summer for eligible members!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image src="/assets/image-1.jpg" alt="first image" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image src="/assets/titles/2.png" alt="mickey ears" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            craving more of
+          </mj-text>
+          <mj-text>
+            #ThatMagicalFeeling?
+          </mj-text>
+          <mj-text>
+            From 7/22 – 8/24 celebrate Welcome Home Weeks, exclusive Member experiences and events at select Parks, Resorts, and even at home.
+          </mj-text>
+          <mj-image src="/assets/button-1.png" alt="learn more button" />
+        </mj-column>
+        <mj-column>
+          <mj-image src="/assets/image-2.jpg" alt="goofy image" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image src="/assets/image-3.jpg" alt="cast member image" />
+        </mj-column>
+        <mj-column>
+          <mj-text>
+            save like a vip
+          </mj-text>
+          <mj-text>
+            For a limited time, eligible Members can save 20% on a Disney Private VIP Tour during select dates from July through September 2024. Requires eligibility.
+          </mj-text>
+          <mj-image src="/assets/button-2.png" alt="check it out button" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image src="/assets/titles/3.png" alt="magical tours" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column>
+          <mj-image src="/assets/titles/4.png" alt="vacay your way" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image src="/assets/titles/5.png" alt="insider scoop" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image src="/assets/titles/6.png" alt="featured offer" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image src="/assets/titles/7.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image src="/assets/image-9.jpg" alt="magical feeling" />
+        </mj-column>
+        <mj-column>
+          <mj-text>
+            Member <br>Stories
+          </mj-text>
+          <mj-text>
+            Gio and Nicco, who have been growing up with Disney Vacation Club since 2018, read Disney Files Magazine on a family vacation in Puerto Rico.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            Share your member moments with us!
+          </mj-text>
+          <mj-image src="/assets/titles/8.jpg" alt="puerto rico trip" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-group>
+          <mj-column>
+            <mj-image src="/assets/insta-icon.png" alt="instagram logo link" />
+          </mj-column>
+          <mj-column>
+            <mj-image src="/assets/face-icon.png" alt="facebook logo link" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column>
+          <mj-image src="/assets/titles/9.png" alt="dvc ending logo" />
+        </mj-column>
+      </mj-section>
+
+
+
+
 
 
     </mj-wrapper>
