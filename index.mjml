@@ -173,7 +173,7 @@
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-image src="https://dvc-newletter.s3.amazonaws.com/image-8.jpg" alt="selfie picture" padding-left="0" align="center" />
+          <mj-image src="https://dvc-newletter.s3.amazonaws.com/image-8.jpg" alt="selfie picture" align="center" />
         </mj-column>
       </mj-section>
 
