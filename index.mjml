@@ -38,13 +38,9 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/titles/2.png" alt="mickey ears" width="280px" />
+          <mj-image src="/assets/titles/2.png" alt="mickey ears" width="280px" align="center" />
         </mj-column>
       </mj-section>
-
-
-
-
 
       <mj-section padding="0">
         <mj-column width="270px">
@@ -54,30 +50,33 @@
           <mj-text padding-top="0" font-weight="600" font-size="19px" align="center">
             #ThatMagicalFeeling?
           </mj-text>
-          <mj-text padding-top="0" line-height="1.3" font-size="14px">
+          <mj-text padding-top="4px" line-height="1.3" font-size="14px">
             From 7/22 – 8/24 celebrate Welcome Home Weeks, exclusive Member experiences and events at select Parks, Resorts, and even at home.
           </mj-text>
           <mj-image src="/assets/button-1.png" alt="learn more button" width="180px" padding-top="0px" />
         </mj-column>
         <mj-column width="330px">
-          <mj-image src="/assets/image-2.jpg" alt="goofy image" />
+          <mj-image src="/assets/image-2.jpg" alt="goofy image" align="center" />
         </mj-column>
       </mj-section>
 
 
 
+
+
+
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/image-3.jpg" alt="cast member image" />
+          <mj-image src="/assets/image-3.jpg" alt="cast member image" align="center" />
         </mj-column>
         <mj-column>
-          <mj-text>
+          <mj-text text-transform="uppercase" font-weight="600" font-size="22px" padding-bottom="2px">
             save like a vip
           </mj-text>
-          <mj-text>
+          <mj-text padding-top="4px" line-height="1.3" font-size="14px">
             For a limited time, eligible Members can save 20% on a Disney Private VIP Tour during select dates from July through September 2024. Requires eligibility.
           </mj-text>
-          <mj-image src="/assets/button-2.png" alt="check it out button" />
+          <mj-image src="/assets/button-2.png" alt="check it out button" width="180px" padding-top="0px" />
         </mj-column>
       </mj-section>
 
@@ -89,15 +88,15 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-text>
+          <mj-text text-transform="uppercase" font-weight="600" font-size="22px" padding-bottom="2px">
             Make memories in the moonlight
           </mj-text>
-          <mj-text>
+          <mj-text padding-top="4px" line-height="1.3" font-size="14px">
             General registration opens 6/27 for Moonlight Magic at Disney's Typhoon Lagoon Water Park! Subject to availability.
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-image src="/assets/image-4.jpg" alt="dvc members in pool" />
+          <mj-image src="/assets/image-4.jpg" alt="dvc members in pool" align="center" />
         </mj-column>
       </mj-section>
 
@@ -109,13 +108,13 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/image-5.jpg" alt="chip and dale picture" />
+          <mj-image src="/assets/image-5.jpg" alt="chip and dale picture" align="center" />
         </mj-column>
         <mj-column>
-          <mj-text>
+          <mj-text text-transform="uppercase" font-weight="600" font-size="22px" padding-bottom="2px">
             SAIL WHEREVER THE MAGIC SENDS YOU
           </mj-text>
-          <mj-text>
+          <mj-text padding-top="4px" line-height="1.3" font-size="14px">
             Starting 6/27, dozens of amazing 2025 & 2026 Disney Cruise Line itineraries will be available for booking just for eligible Members!
           </mj-text>
         </mj-column>
@@ -123,15 +122,15 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-text>
+          <mj-text text-transform="uppercase" font-weight="600" font-size="22px" padding-bottom="2px">
             SEARCH FOR YOUR DREAM VACATION
           </mj-text>
-          <mj-text>
+          <mj-text padding-top="4px" line-height="1.3" font-size="14px">
             Curate the perfect vacation using points and cash with Interval International® via the hotel exchange search engine.
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-image src="/assets/image-6.jpg" alt="selfie picture" />
+          <mj-image src="/assets/image-6.jpg" alt="selfie picture" align="center" />
         </mj-column>
       </mj-section>
 
@@ -144,14 +143,14 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/image-5.jpg" alt="chip and dale picture" />
+          <mj-image src="/assets/image-7.jpg" alt="chip and dale picture" align="center" />
         </mj-column>
         <mj-column>
-          <mj-text>
-            SAIL WHEREVER THE MAGIC SENDS YOU
+          <mj-text text-transform="uppercase" font-weight="600" font-size="22px" padding-bottom="2px">
+            Explore the Brand-new island Tower!
           </mj-text>
-          <mj-text>
-            Starting 6/27, dozens of amazing 2025 & 2026 Disney Cruise Line itineraries will be available for booking just for eligible Members!
+          <mj-text padding-top="4px" line-height="1.3" font-size="14px">
+            Take a look inside a One-Bedroom Villa and Deluxe Studio at the Island Tower at Disney's Polynesian Villas & Bungalows, the newest Disney Vacation Club® addition.
           </mj-text>
         </mj-column>
       </mj-section>
@@ -166,15 +165,15 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-text>
-            SEARCH FOR YOUR DREAM VACATION
+          <mj-text text-transform="uppercase" font-weight="600" font-size="22px" padding-bottom="2px">
+            Save on priceless moments
           </mj-text>
-          <mj-text>
-            Curate the perfect vacation using points and cash with Interval International® via the hotel exchange search engine.
+          <mj-text padding-top="4px" line-height="1.3" font-size="14px">
+            It's your last chance to save up to $5,050 when you add on to your Membership at select Resorts by combining spring savings with our special Welcome Home offer. Offer ends 6/24/24. Terms apply.
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-image src="/assets/image-6.jpg" alt="selfie picture" />
+          <mj-image src="/assets/image-8.jpg" alt="selfie picture" padding-left="0" align="center" />
         </mj-column>
       </mj-section>
 
@@ -182,7 +181,7 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/titles/7.png" alt="" />
+          <mj-image src="/assets/titles/7.png" alt="magical feeling" />
         </mj-column>
       </mj-section>
 
@@ -192,16 +191,16 @@
 
 
 
-      <mj-section padding="0">
+      <mj-section padding="0" full-width="full-width">
         <mj-column>
-          <mj-image src="/assets/image-9.jpg" alt="magical feeling" />
+          <mj-image src="/assets/image-9.jpg" alt="two kids sitting on stone" align="center" />
         </mj-column>
-        <mj-column>
-          <mj-text>
-            Member <br>Stories
+        <mj-column vertical-align="middle">
+          <mj-text text-transform="uppercase" font-weight="600" font-size="22px" padding="30px 10px 10px 10px">
+            Member Stories
           </mj-text>
-          <mj-text>
-            Gio and Nicco, who have been growing up with Disney Vacation Club since 2018, read Disney Files Magazine on a family vacation in Puerto Rico.
+          <mj-text line-height="1.3" font-size="14px" padding="4px 30px 20px 10px">
+            Gio and Nicco, who have been growing up with <span style="font-style: italic">Disney Vacation Club</span> since 2018, read Disney Files Magazine on a family vacation in Puerto Rico.
           </mj-text>
         </mj-column>
       </mj-section>
@@ -209,10 +208,10 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-text>
+          <mj-text font-size="20px" font-weight="600" align="center" padding="20px 5px 0 5px" text-transform="uppercase">
             Share your member moments with us!
           </mj-text>
-          <mj-image src="/assets/titles/8.jpg" alt="puerto rico trip" />
+          <mj-image src="/assets/titles/8.jpg" alt="puerto rico trip" align="center" width="220px" padding="5px 0 20px" />
         </mj-column>
       </mj-section>
 
@@ -220,10 +219,10 @@
       <mj-section padding="0">
         <mj-group>
           <mj-column>
-            <mj-image src="/assets/insta-icon.png" alt="instagram logo link" />
+            <mj-image src="/assets/insta-icon.png" alt="instagram logo link" width="30px" align="right" padding="0 7px 0 10px" href="https://instagram.com" />
           </mj-column>
           <mj-column>
-            <mj-image src="/assets/face-icon.png" alt="facebook logo link" />
+            <mj-image src="/assets/face-icon.png" alt="facebook logo link" width="30px" align="left" padding="0 10px 0 7px" href="https://facebook.com" />
           </mj-column>
         </mj-group>
       </mj-section>
@@ -231,7 +230,7 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/titles/9.png" alt="dvc ending logo" />
+          <mj-image src="/assets/titles/9.png" alt="dvc ending logo" padding="20px 0" width="230px" />
         </mj-column>
       </mj-section>
 
@@ -239,33 +238,32 @@
 
     <mj-section>
       <mj-column>
-        <mj-text>
+        <mj-text font-size="12px" font-weight="bold" padding-bottom="2px">
           *OFFER DETAILS:
         </mj-text>
-        <mj-text>
+        <mj-text padding-top="2px" line-height="1.3">
           Offer requires Members to participate in a Resort sales tour, either telephonically, online, or in person (“Tour”), and buy an ownership interest with at least 150 Vacation Points in AULANI, Disney Vacation Club Villas, Ko Olina, Hawaiʻi, The Villas at Disneyland® Hotel, Disney’s Riviera Resort, or The Cabins at Disney’s Fort Wilderness Resort – A Disney Vacation Club Resort. Savings amount is a credit off the purchase price and does not represent any portion of the minimum down payment required of at least 10%, depending on qualified financing. Offer to save $2,550 starts on April 2, 2024, and all Tours must be completed by June 24, 2024, when the offer expires. If Tour occurs on or after June 18, 2024, offer expires 7 days after Tour. Prices do not include one-time closing costs. Offer cannot be combined with other select offers or discounts and may be extended, modified, or withdrawn at any time without notice. Other offers may be available – talk to your sales Cast Member. Void where prohibited. Additional restrictions and terms may apply.
         </mj-text>
-        <mj-text>
+        <mj-text padding-top="2px" line-height="1.3">
           Welcome Home Offer to save $2,500 requires eligible Add-on Members to participate in a Resort sales tour, either telephonically, online, or in person (“Tour”), and buy an ownership interest with at least 150 Vacation Points in The Cabins at Disney’s Fort Wilderness Resort – A Disney Vacation Club Resort. Offer expires 24 hours after interaction, subject to change. Prices do not include one-time closing costs. Offer cannot be combined with other select offers or discounts and may be extended, modified, or withdrawn at any time without notice. Other offers may be available – talk to your sales Cast Member. Void where prohibited. Additional restrictions and terms may apply.
         </mj-text>
-        <mj-text>
-
+        <mj-text padding-top="2px" line-height="1.3">
           Your designated sales Cast Member may change, based on state licensing regulations.
         </mj-text>
-        <mj-text>
+        <mj-text padding-top="2px" line-height="1.3">
           All accommodations are subject to availability. Full kitchen is available in One-Bedroom Villas and larger. Theme Park admission is not part of the ownership interest and is sold separately. Special Member events, exchange options with Disney Cruise Line, and options offered through the hotel exchange program are Membership Extras. Eligibility requires new Members to have an ownership interest with 150 Vacation Points or more purchased directly from Disney. This is an incidental benefit subject to availability, change, or termination. Fees may apply. Visit disneyvacationclub.com/memextraspolicy for more information. Membership is typically priced at $23,500 to $60,100 (subject to change). For additional information, please visit the General Product, State, & Country Disclosures. Exchange privileges through Interval International®. Not an offer where registration or other legal requirements for timeshare solicitation have not been met.
         </mj-text>
-        <mj-text>
+        <mj-text padding-top="2px" line-height="1.3">
           COMPLETE OFFERING TERMS OF THE TIMESHARE ARE IN A PUBLIC OFFERING STATEMENT AND PURCHASE AGREEMENT AVAILABLE FROM THE DEVELOPER: Disney Vacation Development, LLC, 1851 Community Dr., Lake Buena Vista, FL 32830.
         </mj-text>
-        <mj-text>
+        <mj-text padding-top="2px" line-height="1.3" text-transform="uppercase" font-weight="bold" font-size="14px" padding-bottom="20px">
           THIS PROMOTIONAL MATERIAL IS BEING USED FOR THE PURPOSE OF SOLICITING SALES OF TIMESHARE INTERESTS.
         </mj-text>
-        <mj-text>
+        <mj-text padding-top="2px" line-height="1.3">
           Clicking on the Facebook and Instagram links will take you away from our Disney site where different terms of use and privacy policy apply.
         </mj-text>
-        <mj-text>
-          Unsubscribe from all types of future commercial e-mail from Disney Vacation Development, Inc. that advertise Disney Vacation Club’s products or services.
+        <mj-text padding-top="2px" line-height="1.3">
+          <a style="text-decoration: underline; color: black;" href="#">Unsubscribe</a> from all types of future commercial e-mail from Disney Vacation Development, Inc. that advertise Disney Vacation Club’s products or services.
         </mj-text>
       </mj-column>
     </mj-section>
